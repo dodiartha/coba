@@ -1,4 +1,4 @@
-<img src="https://github.com/dodiartha/coba/blob/master/Screenshot_20180320-211854.png"3
+<img src="https://github.com/dodiartha/coba/blob/master/Screenshot_20180320-211854.png"
 width="350"/>
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
